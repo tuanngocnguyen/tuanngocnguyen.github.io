@@ -1,1 +1,2 @@
 google.com, pub-8079656289222287, DIRECT, f08c47fec0942fa0
+adingo.jp, 29210, RESELLER
